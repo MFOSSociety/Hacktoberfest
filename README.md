@@ -14,9 +14,9 @@
 |                               |              |                                                  |             |
 |                               |              |                                                  |             |
 | Individual Repositories       | Type         | Link                                             | Description |
-| 0x48piraj/Hacktoberfest       | Repo         | https://github.com/0x48piraj/Hacktoberfest       |             |
-| 0x48piraj/abuse               | Repo         | https://github.com/0x48piraj/abuse               |             |
-| 0x48piraj/Bubble-Poke         | Repo         | https://github.com/0x48piraj/Bubble-Poke         |             |
+| 0x48piraj/Hacktoberfest       | Repo         | https://github.com/0x48piraj/Hacktoberfest       | A list of repositories  contributed to in Hacktoberfest of 2017            |
+| 0x48piraj/abuse               | Repo         | https://github.com/0x48piraj/abuse               | World's first profanity library            |
+| 0x48piraj/Bubble-Poke         | Repo         | https://github.com/0x48piraj/Bubble-Poke         | Bubble poke: Poke the bubbles. A JavaScript game written in 11 lines of code.         |
 | 0x48piraj/CS-1101-MU          | Repo         | https://github.com/0x48piraj/CS-1101-MU          |             |
 | NSP-Community/NSP             | Repo         | https://github.com/NSP-Community/NSP             | NSP (Network of Skilled People) is a Social Network that brings engineer's from all fields together to collaborate. |
 | 0x48piraj/medium-cli          | Repo         | https://github.com/0x48piraj/medium-cli          |             |
