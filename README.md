@@ -1,4 +1,4 @@
-# Hacktoberfest '18
+# Hacktoberfest '18 (2020)
 
 > Hacktoberfest themed website for this year's celebration.
 
